@@ -1,5 +1,5 @@
-import React from 'react'
-import { Link } from 'react-router-dom'
+//import React from 'react'
+//import { Link } from 'react-router-dom'
 import amazingViews from "../assets/Icon.png"
 import cabins from "../assets/Frame 29.png"
 import skiing from "../assets/Frame 29 (1).png"

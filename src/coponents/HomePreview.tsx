@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 import house from "../assets/Frame 6.png"
 import pool from "../assets/Frame 6 (1).png"
 import gallery from "../assets/Frame 6 (3).png"

@@ -1,5 +1,5 @@
-import React from 'react'
-import Navbar from './Navbar'
+// import React from 'react'
+// import Navbar from './Navbar'
 import logo from '../assets/airbnb logo.png'
 import profile from '../assets/Frame.png'
 import { Search, Globe, Menu } from 'lucide-react'
